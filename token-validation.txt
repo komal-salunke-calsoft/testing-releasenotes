@@ -1,1 +1,1 @@
-Token and authentication improvements
+Improved token authentication
