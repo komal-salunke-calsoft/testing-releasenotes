@@ -1,1 +1,1 @@
-Improved request validation
+Validation and request processing improvements
