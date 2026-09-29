@@ -1,0 +1,2 @@
+Updated API behavior
+Updated API response behavior
